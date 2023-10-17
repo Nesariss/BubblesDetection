@@ -12,5 +12,4 @@ RetinaNet: https://drive.google.com/file/d/1nzF_6PYwIlK-tKVWCsypIH-LRnNbUc4A/vie
 Faster R-CNN: https://drive.google.com/file/d/1IaIvzkyPNairSMpPrFJSHDOnIoIIrN63/view?usp=sharing
 
 The final step is to launch the software using the command: python app.py.
-
-
+The Notebook folder contains several .ipynb files associated with data preprocessing, visualization, and model evaluation.
